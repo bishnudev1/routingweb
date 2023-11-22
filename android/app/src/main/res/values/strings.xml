@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!--    testing-->
+    <string name="ad_app_id" translatable="false">ca-app-pub-9418359894651666~4841418393</string>
+    <string name="my_Interstitial_Add" translatable="false">ca-app-pub-9418359894651666/9934743227</string>
+    <!-- <string name="banner_ad" translatable="false">ca-app-pub-9418359894651666/8588066950</string> -->
+</resources>
